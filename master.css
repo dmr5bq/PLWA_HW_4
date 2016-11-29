@@ -1,0 +1,83 @@
+
+#display-frame {
+    width: 70%;
+    margin-left: 15%;
+    background: #000;
+    height: 100%;
+    color: white;
+}
+
+.centered {
+    width: 50%;
+    text-align: center;
+    font-size: 24px;
+    margin-left: 25%;
+}
+
+.container {
+    background: black;
+}
+
+.centered input {
+    color: #000000 !important;
+}
+
+.win-highlight {
+    color: lawngreen;
+}
+
+.win-highlight {
+    color: red;
+}
+
+
+#btn-start {
+    width: 25%;
+    margin-left: 37.5%;
+}
+
+.user-display {
+    width: 100%;
+    clear: both;
+    background: #428bca;
+    margin-top: 50px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.user-display tr td{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    color: white;
+}
+
+.user-display tr:first-child td:last-child {
+    font-weight: 900;
+    color: springgreen;
+    font-size: 40px;
+}
+
+.user-display tr:nth-child(2) td:last-child {
+    font-weight: 900;
+    color: indianred;
+    font-size: 40px;
+}
+
+.user-display tr:last-child td:last-child {
+    color: white;
+    font-size: 30px;
+}
+
+.wh-high {
+    color: red;
+}
+
+.wh-mid {
+    color: yellow;
+}
+
+.wh-low {
+    color: springgreen;
+}
+
